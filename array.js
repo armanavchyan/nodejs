@@ -1,0 +1,1 @@
+const web = ['html', 'css', 'js', 'txt'];
